@@ -1,10 +1,10 @@
+// euc-jp
+
 //電卓成プログラム
 #include <stdio.h>
 #include <math.h>
 
 #define cls(x,y)	((x) = 0, (y) = 0)
-
-
 
 //文字列の読み込み
 void read_mojiretu(char mojiretu[]){
