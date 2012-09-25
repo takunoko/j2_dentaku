@@ -17,14 +17,7 @@ double keisan(double kazu[], int hugou[]){
 	int num, hugou_i;
 	cls(num,hugou_i);
 	int num2 = 0;
-/*
-	int test=0;
-	for	(test=0; test <= 5; test++){
-		printf("k[%f] ",kazu[test]);
-		printf("h[%d] ",hugou[test]);
-	}
-	puts("");
-*/
+
 	//Îß¾è
 	while(hugou[num++]){
 		num2 = num;
